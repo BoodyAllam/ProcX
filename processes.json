@@ -1,13 +1,20 @@
 [
   {
-    "process_name": "escalation",
-    "description": "you escalate the case if the customer said fire",
+    "process_name": "escalation_safty",
+    "description": "you need approval from team lead to escalate the case if the customer said fire",
     "owner": "Abdelrahman Allam",
     "added_on": "2025-07-04",
     "is_hot": true
   },
   {
-    "process_name": "Force DB Sync",
+    "process_name": "escalation_3rd repair",
+    "description": "you escalate the case if device got repaired 3rd time same part same issue less than month",
+    "owner": "Abdelrahman Allam",
+    "added_on": "2025-07-04",
+    "is_hot": true
+  },
+  {
+    "process_name": "Test",
     "description": "Force sync database Y during outage",
     "owner": "Jane Smith",
     "added_on": "2025-07-04",

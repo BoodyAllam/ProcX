@@ -1,0 +1,23 @@
+[
+  {
+    "process_name": "escalation",
+    "description": "you escalate the case if the customer said fire",
+    "owner": "Abdelrahman Allam",
+    "added_on": "2025-07-04",
+    "is_hot": true
+  },
+  {
+    "process_name": "Force DB Sync",
+    "description": "Force sync database Y during outage",
+    "owner": "Jane Smith",
+    "added_on": "2025-07-04",
+    "is_hot": true
+  },
+  {
+    "process_name": "Regular Backup",
+    "description": "Perform daily backup at 10 PM.",
+    "owner": "Ali Mostafa",
+    "added_on": "2025-06-10",
+    "is_hot": false
+  }
+]
